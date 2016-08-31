@@ -2,7 +2,7 @@
 
 
 ## Summary
-Mobile devices is now changing our lives. 
+Mobile devices are now changing our lives. 
 
 Eating, shopping, working, traveling, even sleeping, people are now experencing their lives in new ways.
 
