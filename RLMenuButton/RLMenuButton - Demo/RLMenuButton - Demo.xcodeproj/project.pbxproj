@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AB5018281D794A87000D853D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5018271D794A87000D853D /* AppDelegate.swift */; };
+		AB50182A1D794A87000D853D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5018291D794A87000D853D /* ViewController.swift */; };
+		AB50182D1D794A87000D853D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB50182B1D794A87000D853D /* Main.storyboard */; };
+		AB50182F1D794A87000D853D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB50182E1D794A87000D853D /* Assets.xcassets */; };
+		AB5018321D794A87000D853D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB5018301D794A87000D853D /* LaunchScreen.storyboard */; };
+		AB50183A1D794AB8000D853D /* RLMenuButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5018391D794AB8000D853D /* RLMenuButton.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AB5018241D794A87000D853D /* RLMenuButton - Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RLMenuButton - Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB5018271D794A87000D853D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AB5018291D794A87000D853D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AB50182C1D794A87000D853D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AB50182E1D794A87000D853D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AB5018311D794A87000D853D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AB5018331D794A87000D853D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB5018391D794AB8000D853D /* RLMenuButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RLMenuButton.swift; path = ../../RLMenuButton.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB5018211D794A87000D853D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AB50181B1D794A87000D853D = {
+			isa = PBXGroup;
+			children = (
+				AB5018261D794A87000D853D /* RLMenuButton - Demo */,
+				AB5018251D794A87000D853D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AB5018251D794A87000D853D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB5018241D794A87000D853D /* RLMenuButton - Demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AB5018261D794A87000D853D /* RLMenuButton - Demo */ = {
+			isa = PBXGroup;
+			children = (
+				AB5018271D794A87000D853D /* AppDelegate.swift */,
+				AB5018291D794A87000D853D /* ViewController.swift */,
+				AB5018391D794AB8000D853D /* RLMenuButton.swift */,
+				AB50182B1D794A87000D853D /* Main.storyboard */,
+				AB50182E1D794A87000D853D /* Assets.xcassets */,
+				AB5018301D794A87000D853D /* LaunchScreen.storyboard */,
+				AB5018331D794A87000D853D /* Info.plist */,
+			);
+			path = "RLMenuButton - Demo";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB5018231D794A87000D853D /* RLMenuButton - Demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB5018361D794A87000D853D /* Build configuration list for PBXNativeTarget "RLMenuButton - Demo" */;
+			buildPhases = (
+				AB5018201D794A87000D853D /* Sources */,
+				AB5018211D794A87000D853D /* Frameworks */,
+				AB5018221D794A87000D853D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "RLMenuButton - Demo";
+			productName = "RLMenuButton - Demo";
+			productReference = AB5018241D794A87000D853D /* RLMenuButton - Demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB50181C1D794A87000D853D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = Rice;
+				TargetAttributes = {
+					AB5018231D794A87000D853D = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 9RREDA5672;
+					};
+				};
+			};
+			buildConfigurationList = AB50181F1D794A87000D853D /* Build configuration list for PBXProject "RLMenuButton - Demo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AB50181B1D794A87000D853D;
+			productRefGroup = AB5018251D794A87000D853D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB5018231D794A87000D853D /* RLMenuButton - Demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB5018221D794A87000D853D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB5018321D794A87000D853D /* LaunchScreen.storyboard in Resources */,
+				AB50182F1D794A87000D853D /* Assets.xcassets in Resources */,
+				AB50182D1D794A87000D853D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB5018201D794A87000D853D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB50183A1D794AB8000D853D /* RLMenuButton.swift in Sources */,
+				AB50182A1D794A87000D853D /* ViewController.swift in Sources */,
+				AB5018281D794A87000D853D /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AB50182B1D794A87000D853D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB50182C1D794A87000D853D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AB5018301D794A87000D853D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB5018311D794A87000D853D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AB5018341D794A87000D853D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AB5018351D794A87000D853D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AB5018371D794A87000D853D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "RLMenuButton - Demo/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Rice.RLMenuButton---Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AB5018381D794A87000D853D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "RLMenuButton - Demo/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Rice.RLMenuButton---Demo";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB50181F1D794A87000D853D /* Build configuration list for PBXProject "RLMenuButton - Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB5018341D794A87000D853D /* Debug */,
+				AB5018351D794A87000D853D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB5018361D794A87000D853D /* Build configuration list for PBXNativeTarget "RLMenuButton - Demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB5018371D794A87000D853D /* Debug */,
+				AB5018381D794A87000D853D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB50181C1D794A87000D853D /* Project object */;
+}

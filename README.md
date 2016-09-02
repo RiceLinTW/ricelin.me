@@ -12,10 +12,24 @@ These fantastic Apps are bringing us to a better, faster, and more convinent wor
 
 ***Change the world?  I'm in!***
 
-## Apps on Apple Appstore
+## On the Apple Appstore
 * [ToBeOne](https://itunes.apple.com/tw/app/tobeone/id1146702300?mt=8)
+* [HOBOT](https://itunes.apple.com/tw/app/hobot/id1084602291?mt=8)
+* [大魯閣MALL](https://itunes.apple.com/tw/app/da-lu-gemall/id1034758888?l=zh)
+* [遠東百貨](https://itunes.apple.com/tw/app/yuan-dong-bai-huo/id978576574?l=zh)
+* [士林靈糧堂SLLLC](https://itunes.apple.com/tw/app/shi-lin-ling-liang-tangslllc/id1070724395?mt=8)
+* [银联台湾](https://itunes.apple.com/hk/app/yin-lian-tai-wan/id1104901477?l=zh&mt=8)
 
-<!--## Demo Apps-->
+## Demo Apps
+* RLMenuButtons
+
+	<img src="Assets/RLMenuButton.gif" width="240">
+
+* RLTextField & RLTableView
+
+	<img src="Assets/RLTableView + RLTextField.gif" width="240">
+
+* Work Hour Tracker (ongoing)
 
 ## Skills
 * Swift
