@@ -8,7 +8,9 @@ Eating, shopping, working, traveling, even sleeping, people are now experencing 
 
 And I think I could be one of the changers.
 
-These fantastic Apps are bringing us to a better, faster, and more convinent world.
+I'm experienced in connecting RESTful API, communicating with UI designers. Now I am developing Apps with Swift language, focusing on CoreLocation framework.
+
+In the future I'd like to study on software-hardware integration, such like beacons, smarthome and drone controller apps.
 
 ***Change the world?  I'm in!***
 
