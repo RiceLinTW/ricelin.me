@@ -8,11 +8,9 @@ Eating, shopping, working, traveling, even sleeping, people are now experencing 
 
 And I think I could be one of the changers.
 
-I'm experienced in connecting RESTful API, communicating with UI designers. Now I am developing Apps with Swift language, focusing on CoreLocation framework.
-
-In the future I'd like to study on software-hardware integration, such like beacons, smarthome and drone controller apps.
-
-***Change the world?  I'm in!***
+* Now I am developing Apps with Swift language, focusing on CoreLocation framework.
+* Experienced in connecting RESTful API, communicating with UI designers. 
+* Future I'd like to study on software-hardware integration, such like beacons, smarthome and drone controller apps.
 
 ## On the Apple Appstore
 * [ToBeOne](https://itunes.apple.com/tw/app/tobeone/id1146702300?mt=8)
