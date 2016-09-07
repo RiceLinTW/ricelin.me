@@ -50,7 +50,7 @@ And I think I could be one of the changers.
 * iOS Developer @ SpreadSun 2016.03 - 2016.08
 
 	> Develop an EC App and a social video App.
-	
+
 * iOS Developer @ Zoaks Co., Ltd. 2015.11 - 2016.03
 
 	> Develop Apps to satisfy clients' variable needs.
