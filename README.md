@@ -13,7 +13,7 @@ And I think I could be one of the changers.
 * Future I'd like to study on software-hardware integration, such like beacons, smarthome and drone controller apps.
 
 ## On the Apple Appstore
-* [ToBeOne](https://itunes.apple.com/tw/app/tobeone/id1146702300?mt=8)
+* [ToBe達人影音網](https://itunes.apple.com/tw/app/tobeone/id1146702300?mt=8)
 * [HOBOT](https://itunes.apple.com/tw/app/hobot/id1084602291?mt=8)
 * [大魯閣MALL](https://itunes.apple.com/tw/app/da-lu-gemall/id1034758888?l=zh)
 * [遠東百貨](https://itunes.apple.com/tw/app/yuan-dong-bai-huo/id978576574?l=zh)
