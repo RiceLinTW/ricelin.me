@@ -8,7 +8,7 @@ Eating, shopping, working, traveling, even sleeping, people are now experencing 
 
 And I think I could be one of the changers.
 
-* Now focusing on developing Apps with Swift language.
+* Now focusing on developing Apps with Swift language and studying on server-side Swift.
 * Experienced in connecting RESTful API and communicating with UI designers. 
 * Also have experience in beacons and Bluetooth devices connection.
 
