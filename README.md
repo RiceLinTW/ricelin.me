@@ -35,7 +35,7 @@ And I think I could be one of the changers.
 ## Skills
 * Swift
 * Objective-C
-* MySQL
+* SQL
 * Business Strategy
 * Human Resource Management
 * Project Management
