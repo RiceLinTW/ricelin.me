@@ -2,13 +2,8 @@
 
 
 ## Summary
-Mobile devices are now changing our lives. 
-
-Eating, shopping, working, traveling, even sleeping, people are now experencing their lives in new ways.
-
-And I think I could be one of the changers.
-
-* Now focusing on developing Apps with Swift language and studying on server-side Swift.
+* Start developing iOS Apps since 2014.
+* Now focusing on Swift language and studying server-side Swift.
 * Experienced in connecting RESTful API and communicating with UI designers. 
 * Also have experience in beacons and Bluetooth devices connection.
 
