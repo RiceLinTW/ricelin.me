@@ -37,6 +37,14 @@
 * Employee Training
 * Marketing Management
 
+## Personality
+* Creative
+* Teamwork
+* Energetic
+* Spontaneous
+* Observant
+* Prospecting
+
 ## Language
 * Mandarin
 * Taiwanese
