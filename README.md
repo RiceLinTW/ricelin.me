@@ -15,18 +15,7 @@
 * [士林靈糧堂SLLLC](https://itunes.apple.com/tw/app/shi-lin-ling-liang-tangslllc/id1070724395?mt=8)
 * [银联台湾](https://itunes.apple.com/hk/app/yin-lian-tai-wan/id1104901477?l=zh&mt=8)
 
-<!--
-## Demo Apps
-* RLMenuButtons
 
-	<img src="Assets/RLMenuButton.gif" width="240">
-
-* RLTextField & RLTableView
-
-	<img src="Assets/RLTableView + RLTextField.gif" width="240">
-
-* Work Hour Tracker (ongoing)
--->
 ## Skills
 * Swift
 * Objective-C
