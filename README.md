@@ -25,6 +25,8 @@
 * Project Management
 * Employee Training
 * Marketing Management
+* Barista
+* Latte Art
 
 ## Personality
 * Creative
