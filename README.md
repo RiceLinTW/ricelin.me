@@ -2,7 +2,7 @@
 
 
 ## Summary
-* Start developing iOS Apps since 2014.
+* Start developing iOS Apps since 2015.
 * Now focusing on Swift language and studying server-side Swift.
 * Experienced in connecting RESTful API and communicating with UI designers. 
 * Also have experience in beacons and Bluetooth devices connection.
