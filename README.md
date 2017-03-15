@@ -16,7 +16,6 @@
 * [大魯閣MALL](https://itunes.apple.com/tw/app/da-lu-gemall/id1034758888?l=zh)
 * [遠東百貨](https://itunes.apple.com/tw/app/yuan-dong-bai-huo/id978576574?l=zh)
 * [士林靈糧堂SLLLC](https://itunes.apple.com/tw/app/shi-lin-ling-liang-tangslllc/id1070724395?mt=8)
-* [银联台湾](https://itunes.apple.com/hk/app/yin-lian-tai-wan/id1104901477?l=zh&mt=8)
 
 
 ## Skills
