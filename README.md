@@ -8,6 +8,9 @@
 * Also have experience in beacons and Bluetooth devices connection.
 
 ## On the Apple Appstore
+* [Apple House - 創新房屋自售平台](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1007160903&mt=8)
+* [屋比 - 超省房屋比價 APP](https://itunes.apple.com/app/apple-store/id1114378748?mt=8)
+* [屋比經紀人-接單賺錢](https://itunes.apple.com/us/app/屋比經紀人-接單賺錢/id1114378984?mt=8)
 * [ToBe達人影音網](https://itunes.apple.com/tw/app/tobeone/id1146702300?mt=8)
 * [HOBOT](https://itunes.apple.com/tw/app/hobot/id1084602291?mt=8)
 * [大魯閣MALL](https://itunes.apple.com/tw/app/da-lu-gemall/id1034758888?l=zh)
@@ -19,9 +22,11 @@
 ## Skills
 * Swift
 * Objective-C
-* SQL
+* SQL(MySQL, PostgreSQL)
+* Firebase
 * Business Strategy
 * Human Resource Management
+* Team Leading
 * Project Management
 * Employee Training
 * Marketing Management
@@ -42,6 +47,10 @@
 * English
 
 ## Experience
+* iOS Developer @ Oaks tech 2017.01 - NOW
+
+	> Develop house sale Apps and estate agent Apps.
+
 * iOS Developer @ SpreadSun 2016.03 - 2016.08
 
 	> Develop an EC App and a social video App.
