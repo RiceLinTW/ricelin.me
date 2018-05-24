@@ -4,7 +4,9 @@
 ## Summary
 * Start developing iOS Apps since 2015.
 * Now focusing on Swift language and studying server-side Swift.
+* Familiar with MVC, MVVM, VIPER, now I am trying [Clean-Swift](https://clean-swift.com).
 * Experienced in connecting RESTful API and communicating with UI designers. 
+* Mobile map service is my favorite.
 * Also have experience in beacons and Bluetooth devices connection.
 
 ## On the Apple AppStore
