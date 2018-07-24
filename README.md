@@ -12,7 +12,6 @@
 ## On the Apple AppStore
 * [Apple House - 創新房屋自售平台](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1007160903&mt=8)
 * [屋比 - 超省房屋比價 APP](https://itunes.apple.com/app/apple-store/id1114378748?mt=8)
-* 屋比經紀人-接單賺錢(Migrated to 屋比)
 * [HOBOT](https://itunes.apple.com/tw/app/hobot/id1084602291?mt=8)
 * [大魯閣MALL](https://itunes.apple.com/tw/app/da-lu-gemall/id1034758888?l=zh)
 * [遠東百貨](https://itunes.apple.com/tw/app/yuan-dong-bai-huo/id978576574?l=zh)
