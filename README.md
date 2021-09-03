@@ -1,4 +1,4 @@
-# Fa-Hsu Lin (Rice) - Swift Developer
+# Fa-Hsu Lin (Rice) - Apple Developer
 
 
 ## Summary
