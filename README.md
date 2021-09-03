@@ -2,11 +2,11 @@
 
 
 ## Summary
+* Apple Certified Support Professional 10.15
+* More than 10 years of Mac experiences.
 * Start developing iOS Apps since 2015.
-* Now focusing on Swift language and studying server-side Swift.
-* Familiar with MVC, MVVM, VIPER, now I am trying [Clean-Swift](https://clean-swift.com).
+* Familiar with MVC, MVVM, VIPER, Clean-Swift, now trying SwiftUI & Combine.
 * Experienced in connecting RESTful API and communicating with UI designers. 
-* Mobile map service is my favorite.
 * Also have experience in beacons and Bluetooth devices connection.
 
 ## On the Apple AppStore
@@ -46,13 +46,17 @@
 * English
 
 ## Experience
+* iOS Developer @ Xuenn 2019.04 - Now
+
+	> Develop Sportsbook Apps/frameworks.
+
 * iOS Developer @ Oaks tech 2017.01 - NOW
 
 	> Develop house sale Apps and estate agent Apps.
 
 * iOS Developer @ SpreadSun 2016.03 - 2016.08
 
-	> Develop an EC App and a social video App.
+	> Develop an EC App and a social media App.
 
 * iOS Developer @ Zoaks Co., Ltd. 2015.11 - 2016.03
 
@@ -94,5 +98,5 @@
 	> Hold at least 4 camps for high school students.
 
 ## Contact
-* E-mail : [rice0617@gmail.com](mailto:rice0617@gmail.com)
+* E-mail : [ricelin@duck.co](mailto:ricelin@duck.com)
 * Linkedin : [Fa-Hsu Lin](https://www.linkedin.com/in/fa-hsu-lin-1b35b5120)
