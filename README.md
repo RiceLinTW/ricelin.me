@@ -46,11 +46,11 @@
 * English
 
 ## Experience
-* iOS Developer @ Xuenn 2019.04 - Now
+* iOS Developer @ Xuenn Private Limited 2019.04 - Now
 
 	> Develop Sportsbook Apps/frameworks.
 
-* iOS Developer @ Oaks tech 2017.01 - NOW
+* iOS Developer @ Oaks tech 2017.01 - 2019.04
 
 	> Develop house sale Apps and estate agent Apps.
 
