@@ -98,5 +98,5 @@
 	> Hold at least 4 camps for high school students.
 
 ## Contact
-* E-mail : [ricelin@duck.co](mailto:ricelin@duck.com)
+* E-mail : [ricelin@duck.com](mailto:ricelin@duck.com)
 * Linkedin : [Fa-Hsu Lin](https://www.linkedin.com/in/fa-hsu-lin-1b35b5120)
